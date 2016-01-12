@@ -1,3 +1,5 @@
+This is maikerumine's no burn fire for no griefing on a server.
+
 Minetest 0.4 mod: fire
 ======================
 

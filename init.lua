@@ -102,7 +102,7 @@ function fire.flame_should_extinguish(pos)
 	local ps = minetest.find_nodes_in_area(p0, p1, {"group:puts_out_fire"})
 	return (#ps ~= 0)
 end
-
+--Here is where we comment out griefing from fire.
 --[[ Ignite neighboring nodes
 minetest.register_abm({
 	nodenames = {"group:flammable"},
